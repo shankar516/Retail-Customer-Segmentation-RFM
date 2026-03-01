@@ -13,3 +13,5 @@ This project analyzes over **500,000 rows** of transaction data from an Online R
 - **Language:** Python
 - **Libraries:** Pandas (Data Cleaning), Matplotlib/Seaborn (Visualization)
 - **Environment:** Google Colab
+
+![Customer Segments](segments_chart.png)
